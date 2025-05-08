@@ -1,1 +1,1 @@
-# Shecodes
+# Getting started with Shecodes.
